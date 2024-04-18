@@ -1,2 +1,2 @@
 cd ~
-mkdir karthiktest
+sudo mkdir karthiktest
