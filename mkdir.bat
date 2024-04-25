@@ -1,2 +1,0 @@
-cd ~
-sudo mkdir karthiktest
